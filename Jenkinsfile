@@ -9,6 +9,7 @@ pipeline {
                     ls -lah
                     pwd
                     du -Sh
+                    echo "this is from CMD git"
                 '''
             }
         }
